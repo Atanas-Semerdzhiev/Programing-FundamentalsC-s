@@ -1,2 +1,2 @@
-# Programing-FundamentalsC-s
+# Programing-FundamentalsC#
 This is repository with solutions of problems in SoftUni programing Fundamentals -C#
